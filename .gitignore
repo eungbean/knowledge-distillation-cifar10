@@ -1,0 +1,6 @@
+#no path file
+*.tar
+*.pth
+*.pyc
+data/
+.vscode/
